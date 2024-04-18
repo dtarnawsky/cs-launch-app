@@ -1,0 +1,7 @@
+{
+  "name": "cs-launch-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
