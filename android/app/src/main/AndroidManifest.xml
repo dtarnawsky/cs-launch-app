@@ -35,7 +35,9 @@
         </provider>
     </application>
 
-    <!-- Permissions -->
+    <queries>
+        <package android:name="com.truecontext.prontoforms" />
+    </queries>
 
     <uses-permission android:name="android.permission.INTERNET" />
 </manifest>
